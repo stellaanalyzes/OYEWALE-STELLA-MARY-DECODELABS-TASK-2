@@ -1,15 +1,6 @@
 # E-Commerce Orders — Exploratory Data Analysis (EDA)
 
-
 For Task 2 of my internship, I explored the cleaned e-commerce orders dataset using Microsoft Excel. I calculated key statistics — count, mean, median, minimum, and maximum — across the total price and unit price columns to better understand how the data is distributed and spot any patterns worth noting.
-
-##  Screenshots
-
-### Cleaned Data
-![Cleaned Data](cleaned-data-screenshot.png)
-
-### Key Insights
-![Key Insights](key-insights-screenshot.png)
 
 ---
 
@@ -53,56 +44,23 @@ Reviewed the computed statistics to identify the spread of pricing values, spot 
 
 ##  Key Statistics
 
-|
- Metric 
-|
- Total Price 
-|
- Unit Price 
-|
-|
----
-|
----
-|
----
-|
-|
- Count 
-|
- 1,200 
-|
- 1,200 
-|
-|
- Median 
-|
- 823.6 
-|
- 364.2 
-|
-|
- Mean 
-|
- 1,054.0 
-|
- 356.4 
-|
-|
- Maximum 
-|
- 3,456.4 
-|
- 699.9 
-|
-|
- Minimum 
-|
- 11.4 
-|
- 11.4 
-|
+| Metric | Total Price | Unit Price |
+|---|---|---|
+| Count | 1,200 | 1,200 |
+| Median | 823.6 | 364.2 |
+| Mean | 1,054.0 | 356.4 |
+| Maximum | 3,456.4 | 699.9 |
+| Minimum | 11.4 | 11.4 |
 
+---
+
+##  Screenshots
+
+### Cleaned Data
+![Cleaned Data](cleaned-data-screenshot.png)
+
+### Key Insights
+![Key Insights](key-insights-screenshot.png)
 
 ---
 
@@ -118,4 +76,3 @@ Reviewed the computed statistics to identify the spread of pricing values, spot 
 - Unit price values range from 11.4 to 699.9, indicating a wide variety of products at very different price points.
 - With 1,200 records across both columns, the dataset is complete with no missing values in the numerical fields.
 - Exploratory analysis at this stage helps set the direction for deeper analysis and informed decision-making.
-
