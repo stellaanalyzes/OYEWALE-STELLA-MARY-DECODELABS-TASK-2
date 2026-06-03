@@ -68,10 +68,10 @@ Reviewed the computed statistics to identify the spread of values, spot potentia
 ##  Screenshots
 
 ### Descriptive Statistics Table
-![Descriptive Statistics](decode_lab_task---2.jpg)
+![Descriptive Statistics](stats-table.jpg)
 
 ### Key Insights
-![Key Insights](KEY_INSIGHTS_FOR_TASK_2.png)
+![Key Insights](key-insights.png)
 
 ---
 
